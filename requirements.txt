@@ -13,3 +13,4 @@ streamlit-authenticator
 streamlit_tags
 plotly
 scikit-learn
+openai
