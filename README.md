@@ -1,2 +1,6 @@
 # fmit
-Repo for Failure Mode Identification Tool using Large Language Models and Clustering for Databricks Hackathon
+The Failure Model Identification Tool streamlines warranty claims processing by analyzing and summarizing detailed claim inputs, allowing users to gain quick insights into customer issues. Leveraging natural language processing (NLP), the chatbot reads through claim texts, extracts key information such as the customer complaint, probable cause, and the corrective action taken, and then provides a concise summary of each claim.
+Beyond summarization, the tool organizes data by clustering similar claims into groups of common failure modes, helping manufacturers identify recurring issues and potential product weaknesses. With this functionality, teams can more efficiently pinpoint problematic components, improve product reliability, and proactively address common failure patterns. Ideal for enhancing customer support, technical diagnosis, and product development, this analytics solution enables faster, data-driven decision-making across warranty management processes.
+
+Summarized Table Generation.py -  Notebook to create summarized data using large language models for both initial summarization and vector embedding of different relevant information 
+Home.py - Main streamlit app file to run
