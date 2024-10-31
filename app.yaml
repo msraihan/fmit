@@ -1,0 +1,10 @@
+command: [
+  "streamlit", 
+  "run", 
+  "Home.py"
+]
+env:
+  - name: "DATABRICKS_WAREHOUSE_ID"
+    value: "5153115926f10388"
+  - name: STREAMLIT_GATHER_USAGE_STATS
+    value: "false"

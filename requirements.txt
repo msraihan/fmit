@@ -1,0 +1,15 @@
+streamlit == 1.38.0
+databricks-sql-connector
+databricks-sdk
+pandas
+altair
+seaborn
+matplotlib
+fpdf
+numpy
+plotly
+typing
+streamlit-authenticator
+streamlit_tags
+plotly
+scikit-learn
